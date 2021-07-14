@@ -1,0 +1,50 @@
+   <!-- Projects-->
+
+        
+        <section class="projects-section bg-light1" id="projects">
+            <div class="container px-4 px-lg-5">
+                <!-- Featured Project Row-->
+                <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
+                    <div class="col-xl-8 col-lg-7" style="    border: 0.5rem solid transparent;
+                    -moz-border-image: -moz-linear-gradient(top, #E73681 0%, #6B21BA 100%);
+                    -webkit-border-image: -webkit-linear-gradient(top, #E73681 0%, #6B21BA 100%);
+                    border-image: linear-gradient(to bottom, #E73681 0%, #6B21BA 100%);
+                    border-image-slice: 1;"><img class="img-fluid mb-3 mb-lg-0" src="assets/img/audio0.jpg" alt="..." /></div>
+                    <div class="col-xl-4 col-lg-5">
+                        <div class=" text-center text-lg-left">
+                            <h2 class="text1 text-white">L’OBJECTIF VOIZER ?</h2>
+                            <p class="text-white-50 mb-0">Casser les codes du dating actuel et mettre en lumière le critère 
+                                numéro un quand on rencontre une personne : le feeling...<br><br></p>
+                           
+                            <button class=" btn-grad0 button5 start" href="#about">Start</button>
+                        
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="projects-section bg-light0">
+            <div class="container px-4 px-lg-5">
+                <!-- Featured Project Row-->
+                <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
+                    <div class="col-xl-4 col-lg-5">
+                        <div class=" text-center text-lg-left">
+                           <!-- <div class="featured-text0 text-center text-lg-left">-->
+                            <h2 class="text1 text-white">LE PHYSIQUE DANS TOUS CA ?</h2>
+                            <p class=" mb-0 text-white-50">Pas de panique Le physique (photo) reste une variable présente
+                                dans l’application mais Voizer va l’utiliser comme le petit plus qui vous amène à franchir
+                                 le cap pour rencontrer votre futur ami, amour, amant..<br><br></p>
+                            <button class=" btn-grad0 button5 start" href="#about">Start</button>
+
+                        </div>
+                    </div>
+                    <div class="col-xl-8 col-lg-7"  style="    border: 0.5rem solid transparent;
+                    -moz-border-image: -moz-linear-gradient(top, #E73681 0%, #6B21BA 100%);
+                    -webkit-border-image: -webkit-linear-gradient(top, #E73681 0%, #6B21BA 100%);
+                    border-image: linear-gradient(to bottom, #E73681 0%, #6B21BA 100%);
+                    border-image-slice: 1;"><img class="img-fluid mb-3 mb-lg-0" src="assets/img/chat_0.jpg" alt="..." /></div>
+                   
+                </div>
+                </div>
+        </section>
