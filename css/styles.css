@@ -495,7 +495,7 @@ h1, .h1 {
     font-size: 2.5rem;
   }
   .left{
-    padding-left: 588px;
+    padding-left: 622px;
   }
 }
 
@@ -2071,6 +2071,11 @@ progress {
   .col-xl-6 {
     flex: 0 0 auto;
     width: 50%;
+  }
+
+  .col-xl-06 {
+    flex: 0 0 auto;
+    width: 47%;
   }
 
   .col-xl-7 {
@@ -10201,6 +10206,11 @@ background: linear-gradient(to right, #E73681 0%, #6B21BA  100%);
     margin-bottom: 0 !important;
   }
 
+  .mb-lg-000 {
+    margin-bottom: 0 !important;
+    margin-left: 60px;
+  }
+
   .mb-lg-1 {
     margin-bottom: 0.25rem !important;
   }
@@ -11928,15 +11938,15 @@ body {
   min-height: 35rem;
   padding: 7rem 0;
   /*background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgb(0 0 0 / 35%) 75%, #f9fafb 100%), url("../assets/img/3.jpg");*/
-  /*background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/bg-masthead.jpg");
-  background-image: linear-gradient(to right, #1b1c20 50%, #232428  50%);*/
+  background-image: url("../assets/img/background\ site\ voizer_Artboard\ 5.png");
+  /*background-image: linear-gradient(to right, #1b1c20 50%, #232428  50%);*/
  /* background-image: linear-gradient(to right, #232428, #25262b, #28292e, #2a2b32, #2d2e35, #2d2e35, #2d2e35, #2d2e35, #2a2b32, #28292e, #25262b, #232428);
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;*/
  /* background-color: #232428 !important;*/
-  background-color: #232428 !important;
+ /* background-color: #232428 !important;*/
 
 }
 
