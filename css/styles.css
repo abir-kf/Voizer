@@ -1034,6 +1034,10 @@ progress {
   height: auto;
 }
 
+.img-fluid00 {
+  max-width: 37%;
+}
+
 .img-fluid01{
   max-width: 80%;
 
@@ -10223,7 +10227,7 @@ background: linear-gradient(to right, #E73681 0%, #6B21BA  100%);
 
   .mb-lg-000 {
     margin-bottom: 0 !important;
-    margin-left: 60px;
+    margin-left: 40%;
   }
 
   .mb-lg-1 {
